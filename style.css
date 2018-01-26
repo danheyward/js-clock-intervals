@@ -1,14 +1,26 @@
+html {
+  background-color: #4B9CD3;
+}
+
 #clock {
+  position: relative;
+  width: 50vw;
+  margin: 8% auto;
 }
 
 #clock img {
+  position: absolute;
+  width: 50vw;
 }
 
 #hour {
+  width: 50vw;
 }
 
 #minute {
+  width: 50vw;
 }
 
 #second {
+  width: 50vw;
 }
